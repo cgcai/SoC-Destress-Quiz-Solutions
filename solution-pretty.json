@@ -1,0 +1,442 @@
+{
+  "30":{
+    "question":"\"Next please\" is a popular phrase first introduced by which of the following food stalls?",
+    "correct_opt":"4",
+    "opt4":"Western stall",
+    "opt1":"Middle eastern stall",
+    "opt3":"Korean stall",
+    "opt2":"Drinks stall"
+  },
+  "54":{
+    "question":"Which well known faculty member uses the following id: ~tantc?",
+    "correct_opt":"2",
+    "opt4":"Dr. Tan Tuck Chew",
+    "opt1":"A/P Tan Tock Cheng",
+    "opt3":"Dr. Jackie Tan Tee Cheng",
+    "opt2":"Aaron Tan"
+  },
+  "37":{
+    "question":"For which device was Intel's first processor intended?",
+    "correct_opt":"2",
+    "opt4":"Gaming Console",
+    "opt1":"Computers",
+    "opt3":"Camera",
+    "opt2":"Calculators"
+  },
+  "48":{
+    "question":"Which of the following professors was one of the first to get his hands on Google Glass?",
+    "correct_opt":"4",
+    "opt4":"None of the above",
+    "opt1":"A/P Tan Sun Teck",
+    "opt3":"A/P Rahul Jain",
+    "opt2":"Dr. Isam Faik"
+  },
+  "36":{
+    "question":"\"Parody\" was the theme of SoC's Rag and Flag performance in which year?",
+    "correct_opt":"3",
+    "opt4":"2013",
+    "opt1":"2010",
+    "opt3":"2012",
+    "opt2":"2011"
+  },
+  "49":{
+    "question":"Which of the following faculty members heads the project \"PowerPointLabs\" and is known to have the most well-designed lecture slides in SoC?",
+    "correct_opt":"4",
+    "opt4":"Dr. Damith Rajapakse",
+    "opt1":"A/P Kan Min Yen",
+    "opt3":"Dr. Heng Cheng Suang",
+    "opt2":"A/P Leong Tze Yun"
+  },
+  "34":{
+    "question":"Which of the following professors drafted super cool exam questions with his newborn daughter as the subject?",
+    "correct_opt":"3",
+    "opt4":"A/P Wang Ye",
+    "opt1":"A/P Ken Sung",
+    "opt3":"Dr. Steven Halim",
+    "opt2":"Dr. Tan Wee Kek"
+  },
+  "53":{
+    "question":"Which faculty member is best known for his/her work in Embedded Systems?",
+    "correct_opt":"1",
+    "opt4":"Dr. Zhao Shengdong",
+    "opt1":"A/P Tulika Mitra",
+    "opt3":"A/P Lee Mong Li",
+    "opt2":"A/P Liang Zhenkai"
+  },
+  "24":{
+    "question":"\"Beautiful is better than ugly. Explicit is better than implicit. Simple is better than complex. Complex is better than complicated. Readability counts.\" - This statement is the core philosophy of _____________?",
+    "correct_opt":"2",
+    "opt4":"None of the above",
+    "opt1":"Ruby",
+    "opt3":"Java",
+    "opt2":"Python"
+  },
+  "25":{
+    "question":"Which God do NUS students worship the most?",
+    "correct_opt":"3",
+    "opt4":"None of the above",
+    "opt1":"Jesus",
+    "opt3":"Bell Curve God",
+    "opt2":"Ganesh"
+  },
+  "26":{
+    "question":"Which of the following professors is also known as the \"Polar Bear\"?",
+    "correct_opt":"3",
+    "opt4":"Dr. Anand Bhojan",
+    "opt1":"Prof. Bernard Tan",
+    "opt3":"Dr. Colin Tan",
+    "opt2":"Dr. Damith Rajapakse"
+  },
+  "27":{
+    "question":"What is the SoC incubator called now?",
+    "correct_opt":"2",
+    "opt4":"Garage",
+    "opt1":"SoC Incubator",
+    "opt3":"iCUBE",
+    "opt2":"Furnace"
+  },
+  "20":{
+    "question":"What was SoC called when she was under the Faculty of Science?",
+    "correct_opt":"1",
+    "opt4":"Department of Computer Science",
+    "opt1":"DISCS",
+    "opt3":"Faculty of Computer Science",
+    "opt2":"School of Computing"
+  },
+  "21":{
+    "question":"Which year did SoC move to the current building in the Computing Drive?",
+    "correct_opt":"3",
+    "opt4":" It was always here, this is a trick question!",
+    "opt1":"2008",
+    "opt3":"2007",
+    "opt2":"1997"
+  },
+  "22":{
+    "question":"In Dungeons & Dragons, the 1991 Rules Cyclopedia allows you to play upto what level?",
+    "correct_opt":"4",
+    "opt4":"Level 36",
+    "opt1":"Level 10",
+    "opt3":"Level 12",
+    "opt2":"Level 14"
+  },
+  "23":{
+    "question":"The idea for \"X\" was pitched by Rajen Sheth during an interview with Google. Several years later, it was developed by Paul Buchheit and was initially available only to Google employees. It was released to the public on April 1, 2014. Identify \"X\"?",
+    "correct_opt":"1",
+    "opt4":"None of the above",
+    "opt1":"Gmail",
+    "opt3":"Google Maps",
+    "opt2":"Google Translate"
+  },
+  "46":{
+    "question":"Connect the following 4 people: \"Dave McClure, Roelof Botha, Elon Musk, Max Levchin\"",
+    "correct_opt":"2",
+    "opt4":"None of the above",
+    "opt1":"Google",
+    "opt3":"They are not related",
+    "opt2":"PayPal"
+  },
+  "47":{
+    "question":"X was the word of the year 2013. In a global event in 2014, a certain brand Y gained popularity because of X. Identify X and Y.",
+    "correct_opt":"3",
+    "opt4":"None of the above",
+    "opt1":"X - Barack Obama and Y - Samsung",
+    "opt3":"X - Selfie and Y - Samsung",
+    "opt2":"X- Hashtag and Y - Intel"
+  },
+  "44":{
+    "question":"X was the first female programmer and she worked with Charles Babbage on the Y. Identify X and Y",
+    "correct_opt":"1",
+    "opt4":"None of the above",
+    "opt1":"X - Ada Lovelace and Y- Analytical Engine",
+    "opt3":"X - Ida Rhodes and Y - C-10 Language",
+    "opt2":"X - Kathleen Booth and Y - ARC2 Computer"
+  },
+  "45":{
+    "question":"Find the odd one out (Hint: Think on the lines of Investors/Investments)",
+    "correct_opt":"3",
+    "opt4":"Instagram",
+    "opt1":"Google",
+    "opt3":"Facebook",
+    "opt2":"Linkedin"
+  },
+  "42":{
+    "question":"Which software is Stephen Bourne known for writing?",
+    "correct_opt":"2",
+    "opt4":"None of the above",
+    "opt1":"Linux",
+    "opt3":"KDE",
+    "opt2":"sh"
+  },
+  "29":{
+    "question":"What's the Siri equivalent for Windows phones?",
+    "correct_opt":"4",
+    "opt4":"Cortana",
+    "opt1":"Coloba",
+    "opt3":"Corona",
+    "opt2":"Windows Now"
+  },
+  "40":{
+    "question":"Why is the colour of Facebook blue?",
+    "correct_opt":"2",
+    "opt4":"None of the above",
+    "opt1":"Coz it's Zuckerberg's favourite colour",
+    "opt3":"Coz Blue is soothing to the user's eye",
+    "opt2":"Coz Zuckerberg is red-green colour blind"
+  },
+  "41":{
+    "question":"When __________ designs software, he first codes the binary and then writes the source as documentation. Who is being referred to in this popular \"fun fact\"?",
+    "correct_opt":"3",
+    "opt4":"Matt Cutts",
+    "opt1":"Bill Gates",
+    "opt3":"Jeff Dean",
+    "opt2":" Elon Musk"
+  },
+  "1":{
+    "question":"Which faculty member shares his hometown with KFC?",
+    "correct_opt":"2",
+    "opt4":"Prof. David Rosenblum",
+    "opt1":"Dr. Seth Gilbert",
+    "opt3":"A/P Terence Sim",
+    "opt2":"A/P Michael S. Brown"
+  },
+  "3":{
+    "question":"Who has the worst case of feline infatuation?",
+    "correct_opt":"2",
+    "opt4":"All of the above",
+    "opt1":"Dr. Tuan Q. Phan",
+    "opt3":"Dr. Ben Leong",
+    "opt2":"Dr. Colin Tan"
+  },
+  "2":{
+    "question":"Who is the walking-talking SoC UG Encyclopedia?",
+    "correct_opt":"3",
+    "opt4":"A/P Kan Min-Yen",
+    "opt1":"A/P Lee Wee Sun",
+    "opt3":"Toh Mui Kiat",
+    "opt2":"Quek Woon Woon"
+  },
+  "5":{
+    "question":"Who uses Origami to teach computing concepts?",
+    "correct_opt":"2",
+    "opt4":"Dr. Kim Seung Hyun",
+    "opt1":"A/P Irene Woon",
+    "opt3":"A/P Khoo Siau Cheng",
+    "opt2":" A/P Leong Hon Wai"
+  },
+  "4":{
+    "question":"Who shoots birds around SoC?",
+    "correct_opt":"1",
+    "opt4":"A/P Jack Jiang",
+    "opt1":"A/P Wong Weng Fai",
+    "opt3":"Dr. Anand Ramchand",
+    "opt2":"Dr. Hahn Jungpil"
+  },
+  "7":{
+    "question":"What does A&E mean to A/P Leong Hon Wai?",
+    "correct_opt":"3",
+    "opt4":"None of the above",
+    "opt1":"Accident & Emergency",
+    "opt3":"Anywhere & Everywhere",
+    "opt2":"Anyone & Everyone"
+  },
+  "6":{
+    "question":"Who introduced 'cattywampus' to students?",
+    "correct_opt":"4",
+    "opt4":"A/P Leong Hon Wai",
+    "opt1":"A/P Roland Yap",
+    "opt3":"Prof. Wong Limsoon",
+    "opt2":"A/P Ooi Wei Tsang"
+  },
+  "9":{
+    "question":"Which of the following professors was one of the top 100 competitive ballroom dancers in the world?",
+    "correct_opt":"3",
+    "opt4":"None of the above",
+    "opt1":"A/P Stephanie Wehner",
+    "opt3":"Dr. Tuan Q. Phan",
+    "opt2":"Prof. Juzar Motiwalla"
+  },
+  "8":{
+    "question":"Who likes to solve 9 ring puzzles and uses them to teach computing concepts?",
+    "correct_opt":"1",
+    "opt4":"A/P Danny Poo",
+    "opt1":"A/P Leong Hon Wai",
+    "opt3":"Dr. Goh Khim Yong",
+    "opt2":"Dr. Yin Kang Kang"
+  },
+  "28":{
+    "question":"Find the odd one out:",
+    "correct_opt":"4",
+    "opt4":"SG Entrepreneurs",
+    "opt1":"Zopim",
+    "opt3":"Tagronauts",
+    "opt2":"Happy Marketer"
+  },
+  "39":{
+    "question":"Find the odd one out:",
+    "correct_opt":"4",
+    "opt4":"Viber",
+    "opt1":"Instagram",
+    "opt3":"Whatsapp",
+    "opt2":"Oculus Rift"
+  },
+  "12":{
+    "question":"What was Computing Drive previously called?",
+    "correct_opt":"4",
+    "opt4":"Law Loop",
+    "opt1":"Law Drive",
+    "opt3":"Law Link",
+    "opt2":"Law Lane"
+  },
+  "58":{
+    "question":"Which faculty member rides his Segway around SoC?",
+    "correct_opt":"2",
+    "opt4":"A/P Stanislaw Jarzabek",
+    "opt1":"A/P Martin Henz",
+    "opt3":"Dr. Seth Gilbert",
+    "opt2":"A/P Hugh Anderson"
+  },
+  "11":{
+    "question":"What is A/P Gary Tan's favourite food?",
+    "correct_opt":"4",
+    "opt4":"Ice cream",
+    "opt1":"Chocolate",
+    "opt3":"Foie Gras",
+    "opt2":"Fries"
+  },
+  "10":{
+    "question":"Which of the following professors once dressed as Darth Vader for an SoC event?",
+    "correct_opt":"2",
+    "opt4":"None of the above",
+    "opt1":"A/P Michael Brown",
+    "opt3":"A/P Terence Sim",
+    "opt2":"Dr. Ben Leong"
+  },
+  "13":{
+    "question":"SoC was formerly a department in the Faculty of Science. Which year did she become an independent faculty?",
+    "correct_opt":"4",
+    "opt4":"1998",
+    "opt1":"1995",
+    "opt3":"1997",
+    "opt2":"1996"
+  },
+  "38":{
+    "question":"Find the odd one out:",
+    "correct_opt":"4",
+    "opt4":"SXSW",
+    "opt1":"F8",
+    "opt3":"WWDC",
+    "opt2":"Google I/O"
+  },
+  "59":{
+    "question":"A/P Hugh Anderson hails from the same country as which of the following teams?",
+    "correct_opt":"4",
+    "opt4":"All Blacks",
+    "opt1":"Manchester United",
+    "opt3":"Wallabies",
+    "opt2":"Real Madrid"
+  },
+  "14":{
+    "question":"There are 8 bits in a byte. How many bits are there in a nibble?",
+    "correct_opt":"2",
+    "opt4":"None of the above",
+    "opt1":"2",
+    "opt3":"8",
+    "opt2":"4"
+  },
+  "17":{
+    "question":"In DotA, which Neutral Creep has the Purge spell?",
+    "correct_opt":"3",
+    "opt4":"None of the above",
+    "opt1":"Fell Spirit",
+    "opt3":"Satyr Banisher",
+    "opt2":"Orge Frostmage"
+  },
+  "55":{
+    "question":"What is Dr. Tuan Q. Phan's cat called?",
+    "correct_opt":"1",
+    "opt4":"Colonel Meow",
+    "opt1":"Marbles Foldsky",
+    "opt3":"Nermal",
+    "opt2":"Grumpy Cat"
+  },
+  "18":{
+    "question":"In DotA, how long is the cooldown for Spectre's ultimate \"Haunt\"?",
+    "correct_opt":"4",
+    "opt4":"120 sec.",
+    "opt1":"90 sec.",
+    "opt3":"60 sec.",
+    "opt2":"150 sec."
+  },
+  "57":{
+    "question":"How many cats does A/P Benjamin Lian have?",
+    "correct_opt":"4",
+    "opt4":"7",
+    "opt1":"2",
+    "opt3":"4",
+    "opt2":"19"
+  },
+  "56":{
+    "question":"Where did Dr. Tuan Q. Phan grow up?",
+    "correct_opt":"3",
+    "opt4":"Massachusetts",
+    "opt1":"Los Angeles",
+    "opt3":"Utah",
+    "opt2":"Ho Chi Minh City"
+  },
+  "51":{
+    "question":"What is the name of the startup that Adjunct Professor Pete Kellock founded?",
+    "correct_opt":"3",
+    "opt4":"Anima",
+    "opt1":" Xtreme",
+    "opt3":"muvee",
+    "opt2":"Xmini"
+  },
+  "50":{
+    "question":"When SoC was located next to the Science faculty, which LT hosted most lectures?",
+    "correct_opt":"1",
+    "opt4":"LT 32",
+    "opt1":"LT 27",
+    "opt3":"LT 26",
+    "opt2":"LT 24"
+  },
+  "35":{
+    "question":"Prof. A was previously the RF for Sheares Hall and was popularly known as the \"Eeker Daddy\". This role was recently given to Prof. B who is the current RF for Sheares Hall. Both these profs are from SoC. Identify A and B.",
+    "correct_opt":"4",
+    "opt4":"A - Dr.Colin Tan and B - Dr.Steven Halim",
+    "opt1":"A - Dr. Steven Halim and B - Dr.Colin Tan",
+    "opt3":"A - A/P Wong Weng Fai and B - Dr.Colin Tan",
+    "opt2":"A - A/P Lee Wee Sun and B - Dr.Steven Halim"
+  },
+  "52":{
+    "question":"Which Level 2 module is A/P Hugh Anderson best known for?",
+    "correct_opt":"2",
+    "opt4":"CS2111",
+    "opt1":"CS2281",
+    "opt3":"CS2332",
+    "opt2":"CS2106"
+  },
+  "19":{
+    "question":"Which of the following faculty members are husband and wife?",
+    "correct_opt":"3",
+    "opt4":"None of the above",
+    "opt1":"Abhik Roychoudhury and Tulika Mitra",
+    "opt3":"Both a) and b)",
+    "opt2":"Mohan Kankanhalli and Atreyi Kankanhalli"
+  },
+  "32":{
+    "question":"Who is know as SoC's \"Wanted Man\"?",
+    "correct_opt":"1",
+    "opt4":"None of the above",
+    "opt1":"Desmond Teo",
+    "opt3":"Tan Tek Min",
+    "opt2":"John Tan"
+  },
+  "31":{
+    "question":"What does STePs stand for?",
+    "correct_opt":"1",
+    "opt4":"SoCians Term Project Show",
+    "opt1":"SoC Term Project Showcase",
+    "opt3":"SoCians Term Product Showcase",
+    "opt2":"Students Term Project Show"
+  }
+}

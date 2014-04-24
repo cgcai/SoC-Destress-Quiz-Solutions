@@ -1,4 +1,7 @@
 #!/usr/env/python
+# Python script to retrieve quiz questions in http://tinyurl.com/destressquiz.
+# The quiz was destressful in an unintended way.
+
 import argparse
 import json
 import os
@@ -27,7 +30,10 @@ def main(args):
                 pass
 
     for i in range(args.runs):
-        # Unprotected endpoing, no rate limiting.
+        # Unprotected endpoing, suspected iptables rate limiting.
+        # 1. Be nice.
+        # 2. Don't be unnice.
+        # You have been warned (:
         resp = requests.get('https://demopage.in/fb/rapidfire/getquestion.php')
 
         decoded = resp.json()
