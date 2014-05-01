@@ -1,12 +1,22 @@
 // npm install request
 // node app.js
 
+require('https').globalAgent.maxSockets = 10;
+
 var request = require('request');
 
-// Your member id here:
-var memberid = 284;
+var jar = request.jar();
+jar.setCookie('PHPSESSID=25cd4b796621199b15944a2da8972283', 'https://demopage.in/fb/rapidfire/resultfile.php');
 
-var data = {hiddenmemberid: memberid};
+var request = request.defaults({jar:jar});
+
+// Your member id here:
+var memberid = 239;
+
+var data = {
+    hiddenmemberid: memberid,
+    token: 'd9d2be34fe20782809a24bcba69b542d'
+};
 
 for (var i=0;i<15;i++) {
     data['qstnid'+i] = 3;
@@ -14,16 +24,11 @@ for (var i=0;i<15;i++) {
 }
 
 function postRequest() {
-    request.post('https://demopage.in/fb/rapidfire/result.php',
+    request.post('https://demopage.in/fb/rapidfire/resultfile.php',
                 { form: data },
                 function(error, response, body) {
-                    if (response.statusCode == 200) {
-                        console.log("ok!");
-                        //postRequest();
-                    }
+                    console.log(error ? error : response.statusCode);
                 });
 }
 
-for (var i=0;i<100;i++) {
-    postRequest();
-}
+setInterval(postRequest, 5000);
